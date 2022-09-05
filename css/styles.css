@@ -58,6 +58,11 @@ a {
   width: 50px;
 }
 
+#me {
+  width: 300px;
+  margin: 10px auto;
+}
+
 /* Class selectors */
 .html5 {
   width: 25%;
